@@ -10,7 +10,7 @@ Lenguaje usado: Java.
 <b>*Desarrolladores:<br /></b>
 Alberto Villarreal Canales (Betusto)<br />
 <ul>
-<li>Correo: alberto_villarreal99@hotmail.com</li>
+<li>Correo: alberto.villarreal.canales@gmail.com</li>
 <li>Celular: 8117205175</li>
 </ul>
 César Jesús Castro Pérez<br />
